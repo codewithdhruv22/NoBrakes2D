@@ -1,0 +1,16 @@
+{
+"companyName": "InGame",
+"productName": "NoBrakes2D",
+"productVersion": "1.0",
+"dataUrl": "NoBrakes2DWebSetup.data.unityweb",
+"wasmCodeUrl": "NoBrakes2DWebSetup.wasm.code.unityweb",
+"wasmFrameworkUrl": "NoBrakes2DWebSetup.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
